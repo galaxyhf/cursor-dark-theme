@@ -1,0 +1,27 @@
+{
+  "name": "cursor-dark-theme",
+  "displayName": "cursor-dark theme",
+  "description": "A theme inspired by Cursor AI's editor, packaged for Visual Studio Code—enjoy Cursor's colors and style without needing the Cursor editor.",
+  "version": "0.0.1",
+  "publisher": "galaxyhf",
+  "icon": "img/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/galaxyhf/cursor-theme"
+  },
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cursor-Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cursor-Dark-color-theme.json"
+      }
+    ]
+  }
+}
