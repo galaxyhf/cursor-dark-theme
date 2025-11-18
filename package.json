@@ -1,9 +1,9 @@
 {
-  "name": "cursor-dark-theme",
-  "displayName": "cursor-dark theme",
+  "name": "cursor-editor-color-theme",
+  "displayName": "cursor theme",
   "description": "A theme inspired by Cursor AI's editor, packaged for Visual Studio Code—enjoy Cursor's colors and style without needing the Cursor editor.",
-  "version": "0.0.1",
-  "publisher": "galaxyhf",
+  "version": "1.0.0",
+  "publisher": "caiosilva",
   "icon": "img/icon.png",
   "repository": {
     "type": "git",
