@@ -124,7 +124,7 @@
     "list.warningForeground": "#EBCB8B",
     "menu.background": "#141414",
     "menu.foreground": "#CCCCCC",
-    "menu.separatorBackground": "#CCCCCC",
+    "menu.separatorBackground": "#cccccc17",
     "menubar.selectionBackground": "#CCCCCC33",
     "merge.border": "#2A2A2A00",
     "merge.currentContentBackground": "#88C0D04D",
